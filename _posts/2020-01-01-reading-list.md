@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Challenge your view"
+title:  "A fresh view"
 categories: resources
 ---
 
