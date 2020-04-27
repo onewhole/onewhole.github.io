@@ -6,12 +6,12 @@ categories: resources
 
 If perspectives is what you want
 
-Books
+### Books
 
 - The Alchemist
 - Gödel, Escher, Bach
 
-Online
+### Online
 
 - [wikipedia](https://en.wikipedia.org/wiki/Open_individualism)
 - [reddit](https://www.reddit.com/r/OpenIndividualism/wiki/reading)

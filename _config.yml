@@ -11,7 +11,7 @@ sass:
   sass_dir: _sass
 
 plainwhite:
-  name: I am you
+  name: I am You
   tagline: 
   date_format: "%b %-d, %Y"
   sitemap: true # set to true to generate sitemap.xml content
@@ -51,6 +51,10 @@ plainwhite:
 
 # Build settings
 # theme: plainwhite
+
+markdown: kramdown
+kramdown:
+  parse_block_html: true
 
 plugins:
   - jekyll-seo-tag
